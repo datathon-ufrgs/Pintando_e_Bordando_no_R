@@ -1180,5 +1180,7 @@ class: middle, center, inverse
 
 ## https://www.ufrgs.br/datathon
 
+### https://github.com/datathon-ufrgs/Pintando_e_Bordando_no_R
+
 ### rodrigocpdosreis@gmail.com
 
