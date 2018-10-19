@@ -1,0 +1,27 @@
+
+.title-slide {
+	background-color: #551A8B;
+	background-image: url(images/);
+	background-position: center bottom 170px;
+	background-size: 90%;
+}
+
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+/* Hmm. How about the slide number. */
+
+
+.remark-slide-number {
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Okay, now let's add a simple bottom border */ 
+
+
+.inverse {
+    color: #fafafa;
+    text-shadow: 0 0 0px #333;
+}
