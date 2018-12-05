@@ -102,7 +102,7 @@ knitr::include_graphics('images/hadley1.jpg')
 .pull-right[
 - Implementação em **R** da **Gramática dos Gráficos** (*Grammar of the Graphics*; **gg**) de **Leland Wilkinson**<sup>1</sup> por **Hadley Wickham**<sup>2</sup>.
 
-- **Pergunta:** que é um gráfico estatístico?
+- **Pergunta:** o que é um gráfico estatístico?
     + **gg:** é um mapeamento dos dados a partir de **atributos estéticos** (cores, formas, tamanho) de **formas geométricas** (pontos, linhas, barras)
 
 ]
